@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFotoProject</string>
+    <string name="mensajebotonsi">SI</string>
+    <string name="mensajebotonno">NO</string>
+    <string name="mensajenomegusta">NO ME GUSTA</string>
+    <string name="mensajesimegusta">ME GUSTA</string>
+</resources>

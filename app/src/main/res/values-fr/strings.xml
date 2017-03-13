@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFotoProject</string>
+    <string name="mensajebotonno" translatable="false">NON</string>
+    <string name="mensajebotonsi" translatable="false">OUI</string>
+    <string name="mensajenomegusta">JE NE PAS AIME</string>
+    <string name="mensajesimegusta">J\'AIME</string>
+</resources>
